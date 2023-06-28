@@ -1,0 +1,4 @@
+https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/
+https://www.youtube.com/watch?v=EvHLHP1BoyY
+https://python.plainenglish.io/role-based-authentication-and-authorization-with-djangorestframework-and-simplejwt-d9614d79995c
